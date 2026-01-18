@@ -127,7 +127,7 @@ List 3-5 key features or functionalities you would implement in your portfolio (
 - Ensure all portfolio links are working and accessible
 - Be specific and thoughtful in your analysis
 - Use proper formatting and grammar
-- Due Date: **24th Jan 2026**
+- Due Date: **31st Jan 2026**
 
 ## Tips for Finding Great Portfolios
 
