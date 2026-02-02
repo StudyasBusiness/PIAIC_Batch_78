@@ -131,6 +131,38 @@ Learned how to create our own custom skills tailored to specific needs.
 
 ---
 
+### 7. Claude Code Context Management & MCP Servers
+
+Deep dive into how Claude Code manages context and integrates with MCP (Model Context Protocol) servers for enhanced capabilities.
+
+**Context Management Topics Covered:**
+
+- Understanding `/context` command to view context usage
+- What takes up context by default (skills, files, conversation history)
+- Auto compact buffer - how it optimizes context usage
+- Skills structure and their context footprint
+- Keyboard shortcuts with `?` command
+- How to add files as context in prompts
+- Difference between `/clear` and `/compact` commands
+- Pressing double escape to restore a checkpoint
+
+**MCP Servers Deep Dive:**
+
+- What are MCP (Model Context Protocol) servers
+- How to connect existing MCP servers with Claude Code
+- Context usage impact of MCP servers
+- **Playwright MCP Server**: Connected and explored use cases for web automation and testing
+- **Claude Extension on Chrome**: Learned about Playwright's alternative approach
+- **Context7 MCP Server**: Integrated context7, understood the problem it solves (semantic search), how to use it, and how to obtain API keys for increased search limits
+
+**Hands-On Setup:**
+
+- Connected Playwright MCP server for web interaction capabilities
+- Connected Context7 MCP server for enhanced semantic search functionality
+- Explored context budgeting across multiple MCP integrations
+
+---
+
 ## Next Steps
 
 - Continue practicing with custom skills
@@ -150,4 +182,4 @@ Learned how to create our own custom skills tailored to specific needs.
 
 ---
 
-**Last Updated:** January 26, 2026
+**Last Updated:** February 2, 2026
